@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.container {
+    text-align: center;
+   
+}
+.imgwiki{
+    height: 500px;
+    width: 500px;
+}
+input {
+    width: 80%;
+
+    margin: 10px 0;
+    border: 1px solid #ccc;
+ 
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+#results {
+    margin-top: 20px;
+    text-align: left;
+}
+
+
+
